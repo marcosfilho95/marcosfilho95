@@ -1,7 +1,5 @@
 ### Oi! Me chamo Marcos Antonio Felix 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com front-End
 - 🌱 Estou aprendendo React / TypeScript
 - 🎓 Graduando em Engenharia da Computação
