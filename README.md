@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/marcosfilho95">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfilho95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfilho95&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfilho95&layout=compact&langs_count=16&theme=dark"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
