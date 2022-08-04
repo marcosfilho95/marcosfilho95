@@ -10,7 +10,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosfilho95&layout=compact&langs_count=16&theme=dark"/>
 </div>  
 <div style="display: inline_block"><br>
-  <h1>Tecnologias que utilizo</h1>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
