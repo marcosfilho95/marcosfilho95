@@ -1,7 +1,7 @@
 ### Oi! Me chamo Marcos Antonio Felix 👋
 
-- 🔭 Hoje trabalho com front-End
-- 🌱 Estou aprendendo React / TypeScript
+- 👨‍💻 Hoje trabalho com front-End
+- 📚 Estou aprendendo React / TypeScript
 - 🎓 Graduando em Engenharia da Computação
 - 📫 Contate-me no email: marcosfilho95@hotmail.com
 <div align="center">
