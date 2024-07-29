@@ -1,6 +1,6 @@
 ### Oi! Me chamo Marcos Antonio Felix 👋
 
-- 👨‍💻 Hoje trabalho com front-End
+- 👨‍💻 Experiência Front-End no BNB
 - 📚 Estou aprendendo Web Development
 - 🎓 Graduando em Engenharia da Computação
 - 📫 Contate-me no email: marcosfilho95@hotmail.com
