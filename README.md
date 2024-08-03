@@ -2,7 +2,7 @@
 
 - 👨‍💻 Experiência Front-End no BNB
 - 📚 Estou aprendendo Web Development
-- 🎓 Graduando em Engenharia da Computação
+- 🎓 7º Semestre Engenharia da Computação
 - 📫 Contate-me no email: marcosfilho95@hotmail.com
 <div align="center">
   <a href="https://github.com/marcosfilho95">
