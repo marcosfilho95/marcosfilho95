@@ -5,7 +5,7 @@
 - 🎓 8º Semestre Engenharia da Computação
 - 📫 Contate-me no email: felixmarcos.dev@gmail.com
 
-> "Eu não sou um gênio, sou apenas alguém que cometeu muitos erros." 
+> "Eu não sou um gênio, sou apenas alguém que cometeu muitos erros."       
 > — **C.S. Lewis**
 <div align="center">
   <a href="https://github.com/marcosfilho95">
