@@ -4,6 +4,9 @@
 - 📚 Explorando o universo do Web Development
 - 🎓 8º Semestre Engenharia da Computação
 - 📫 Contate-me no email: felixmarcos.dev@gmail.com
+
+> "Eu não sou um gênio, sou apenas alguém que cometeu muitos erros." 
+> — **C.S. Lewis**
 <div align="center">
   <a href="https://github.com/marcosfilho95">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcosfilho95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
