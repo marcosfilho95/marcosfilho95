@@ -2,7 +2,7 @@
 
 - 👨‍💻 Experiência Front-End no BNB
 - 📚 Explorando o universo do Web Development
-- 🎓 8º Semestre Engenharia da Computação
+- 🎓 10º Semestre Engenharia da Computação
 - 📫 Contate-me no email: felixmarcos.dev@gmail.com
 
 > "Eu não sou um gênio, sou apenas alguém que cometeu muitos erros."       
