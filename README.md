@@ -1,4 +1,4 @@
-### Oi! Me chamo Marcos Antonio Felix 👋
+### Oi! Me chamo Marcos Antônio Félix 👋
 
 - 👨‍💻 Desenvolvedor Front-End no BNB e Hyperworks
 - 🎓 Engenheiro da Computação
