@@ -1,6 +1,6 @@
 ### Oi! Me chamo Marcos Antonio Felix 👋
 
-- 👨‍💻 Desenvolvedor Front-End no BNB
+- 👨‍💻 Desenvolvedor Front-End no BNB e HyperWorks
 - 🎓 Engenheiro da Computação
 - 📫 Contate-me no email: felixmarcos.dev@gmail.com
 
